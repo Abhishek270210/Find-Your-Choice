@@ -1,0 +1,179 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Charm&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lateef&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@700&display=swap');
+
+
+
+
+*{
+   padding: 0%;
+   margin: 0%;
+}
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    color: black;
+    font-weight: bold;
+    font-size: xx-large;
+    /* text-align: center; */
+    padding-top: 22%;
+}
+h3{
+    text-align: center;
+    padding-top: 2%;
+    color: cadetblue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.topheading{
+    padding-bottom: 3%;
+    position: relative;
+}
+.top-top{
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    opacity: 0.65;
+    z-index: -1;;
+}
+.brandname-div{
+    margin-top: 0%;
+}
+.brandname{
+    font-family: 'Charm', cursive;
+    font-size: 500%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+.gyaan{
+    font-family: 'Lateef', cursive;
+    font-size: 23px;
+}
+.time{
+    font-size: 200%;
+    text-align:right ;
+}
+.timetop{
+    background-color: #343a40;
+    border-radius: 10%;
+}
+#datetime{
+    color: white;
+    font-weight: bolder;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.imglogo{
+    width: 60%;
+    opacity: 2;
+}
+.dibba{
+    width: 100%;
+    height: 100%;
+}
+.logo{
+    padding-top: 3%;
+    padding-left: 5%;
+}
+
+.items{
+    padding-bottom: 8%;
+    padding-top: 8%;
+    /* background-color: black; */
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'EB Garamond', serif;
+   color: black;
+}
+.box{
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Niconne', cursive;;
+}
+.box-2{
+    text-align: center;
+    font-size: 300%;
+    font-family: 'Comic Neue', cursive;
+    background-color: teal
+}
+.time-table-of-store{
+    margin: 0%;
+    color: white;
+}
+.container-fluid{
+    position: relative;
+}
+.container-fluid .row a{
+    color: black;
+}
+.items-image{
+    display: block;
+}
+.img-class{
+    display: block;
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+}
+.make-round{
+    border-radius: 100%;
+}
+.row .col a{
+    text-decoration: none;
+}
+.col{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    /* border: 2px solid black; */
+}
+
+#time-table{
+    font-size: xx-large;
+    border: 5px solid black;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+th,td{
+    padding: 15px;
+    text-align: center;
+    border: 5px solid black;
+}
+.time-table-d{
+    text-align: center;
+    font-size: 300%;
+    font-weight: bolder;
+    background-color: teal;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.description-heading{
+    font-family: 'Charm', cursive;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.footersec{
+    /* background-color: black; */
+    text-align: center;
+    padding-top: 0%;
+}

@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Charm&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lateef&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@700&display=swap');
+
+
+
+.topheading{
+    position: relative;
+    padding-bottom: 8%;
+}
+.item-top-img{
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+}
+.imglogo{
+    width: 80%;
+}
+.logo{
+    padding-top: 3%;
+    padding-left: 5%;
+}
+.brandname-div{
+    margin-top: 0%;
+}
+.brandname{
+    font-family: 'Charm', cursive;
+    font-size: 500%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+    color: black;
+}
+.gyaan{
+    font-family: 'Lateef', cursive;
+    font-size: 23px;
+}
+.time{
+    font-size: 200%;
+    text-align:right ;
+}
+.timetop{
+    background-color: #343a40;
+    border-radius: 10%;
+}
+#datetime{
+    color: white;
+    font-weight: bolder;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.header{
+    height: 80px;
+    background-color: burlywood;
+}
+.side-logo{
+    height: 70px;
+    margin: 5px;
+}
+.brand{
+    display: inline-block;
+    font-weight: bolder;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     font-size: xx-large;
+     padding-top: 2px;
+}
+.typeofitem{
+    display: inline-block;
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-left: 35%;
+}
+table{
+    width: 100%;
+    border: solid 5px black;
+    text-align: center;
+}
+th,td{
+    border: 3px solid black;
+}
+.table-class{
+    line-height: 4;
+}
+
+.footersec{
+    text-align: center;
+    background-color: black;
+    padding-top: 6%;
+    color: white;
+}
